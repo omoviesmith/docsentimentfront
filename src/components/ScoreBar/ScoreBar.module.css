@@ -1,0 +1,15 @@
+.container {
+  height: fit-content;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 8px 36px;
+  margin-top: 16px;
+}
+
+.success {
+  color: var(--palette-success-main);
+}
+
+.error {
+  color: var(--palette-error-main);
+}

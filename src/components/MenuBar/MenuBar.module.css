@@ -1,0 +1,16 @@
+.container {
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 36px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.subContainer {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
